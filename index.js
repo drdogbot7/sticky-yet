@@ -1,4 +1,4 @@
-function stickyYet( selector ) {
+const stickyYet = function( selector ) {
   var stickyThing = document.querySelector( selector );
   var CSSTop = parseInt( getComputedStyle( stickyThing, null ).getPropertyValue("top"), 10);
   window.addEventListener( 'scroll', function() {
@@ -10,5 +10,4 @@ function stickyYet( selector ) {
   });
 };
 
-module.exports = stickyYet;
 export default stickyYet;

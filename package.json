@@ -1,6 +1,6 @@
 {
   "name": "sticky-yet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Are we sticky yet? Add is-sticky class when element is stuck, ok?",
   "main": "index.js",
   "scripts": {
