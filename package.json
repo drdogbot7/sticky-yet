@@ -1,0 +1,24 @@
+{
+  "name": "sticky-yet",
+  "version": "1.0.0",
+  "description": "Are we sticky yet? Add is-sticky class when element is stuck, ok?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdogbot7/sticky-yet.git"
+  },
+  "keywords": [
+    "sticky",
+    "positioning",
+    "css"
+  ],
+  "author": "drdogbot7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drdogbot7/sticky-yet/issues"
+  },
+  "homepage": "https://github.com/drdogbot7/sticky-yet#readme"
+}
